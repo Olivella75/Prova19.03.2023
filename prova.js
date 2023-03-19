@@ -9,4 +9,5 @@ function main() {
         }
     }
     document.getElementById("resultat").innerHTML = solucio;
+    console.log("Hola");
 }
